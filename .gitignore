@@ -16,15 +16,7 @@ build/
 dist/
 
 # Data and large artifacts (keep tracked ones as needed)
-*.pkl
-*.joblib
-*.csv
-*.json
-!vercel.json
-!api/index.py
-!requirements.txt
-!src/**
-!api/**
+
 
 # OS files
 .DS_Store
